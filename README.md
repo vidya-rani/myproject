@@ -1,5 +1,6 @@
 # myproject
 this is micro project repository
+
 Here, I have uploaded the project to create Student Form with the mentioned criteria
 # Title of the Project:                  
                                  Student Form  
@@ -16,11 +17,9 @@ Here, I have uploaded the project to create Student Form with the mentioned crit
 -Web-services API - Can be used with any programming language that has support for HTTP.
 
 
-# Scope of functionalities
+
 # Examples of use
 -Simple to Use
 -Fast Response
 -Detailed User Interface
-# Project status
-# Sources
-# Other information
+
